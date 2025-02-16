@@ -1,5 +1,5 @@
 # cpp-learning-archive
-![C++ Logo](https://github.com/winx-T/cpp-learning-archive/blob/main/c_6132222.png?raw=true)
+<img src="https://github.com/winx-T/cpp-learning-archive/blob/main/c_6132222.png?raw=true" alt="C++ Logo" width="200" />
 A repository documenting my journey and progress in learning C++, including notes, examples, and projects.
 
 ## Contents
