@@ -1,4 +1,5 @@
 # cpp-learning-archive
+![C++ Logo](https://github.com/winx-T/cpp-learning-archive/blob/main/c_6132222.png?raw=true)
 A repository documenting my journey and progress in learning C++, including notes, examples, and projects.
 
 ## Contents
