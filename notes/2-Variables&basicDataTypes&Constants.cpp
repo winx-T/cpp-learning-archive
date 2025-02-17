@@ -29,7 +29,7 @@ int main() {
     bool is_greater= 5>3;
 
    // STRING: Used to store a sequence of characters (text).
-    std::string name= "win-x";
+    std::string name= "winx";
     std::string date = "2025-feb-12";
 
 
