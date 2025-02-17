@@ -9,7 +9,7 @@ int main() {
     std::cout << "\n\n";
     std::cout <<"*********************"<< std::endl;
 
-    std::cout <<"My Name: Win-x" << std::endl;
+    std::cout <<"My Name: Winx" << std::endl;
     std::cout <<"My Age: 22" << std::endl;
     std::cout <<"City: AGADIR" << std::endl;
     std::cout <<"country: Morocco"<< std::endl;
