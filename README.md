@@ -37,5 +37,5 @@ To get started with C++, follow these steps:
 
 ## How to Navigate
 
-Explore the different sections of this repository to find notes, examples, and projects. Each folder contains a `README.md` file with additional details.
+Explore the different sections of this repository to find notes, practice examples, and projects. Each folder contains a `README.md` file with additional details.
 
