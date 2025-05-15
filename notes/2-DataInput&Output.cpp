@@ -1,4 +1,4 @@
-#include <iostream>  // Include the iostream library for input and output functionality
+#include <iostream>  // Include the iostream library for input and output functionality (std::cout, std::cin, and std::endl)
 
 int main() {
     // Output a greeting message to the console using std::cout
