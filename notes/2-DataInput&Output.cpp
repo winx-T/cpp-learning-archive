@@ -1,9 +1,9 @@
 #include <iostream>  // Include the iostream library for input and output functionality (std::cout, std::cin, and std::endl)
-
+#include <string>  // Include the string library to use std::string
 int main() {
     // Output a greeting message to the console using std::cout
     // std::cout is used to send output to the standard output (console)
-    std::cout << "Hello, World!" << std::endl;  // Print "Hello, World!" followed by a newline
+    std::cout << "Hello, World!" << std::endl;  // Print "Hello, World!" followed by a newline; std::endl moves the cursor to the next line
 
     // Declare variables to store the user's input
     std::string name;  // String variable to hold the name input by the user
