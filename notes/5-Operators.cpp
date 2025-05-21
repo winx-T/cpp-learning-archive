@@ -31,9 +31,9 @@ int main() {
     // LOGICAL OPERATORS = return a boolean value (true or false) based on the logical operation between two boolean values
     bool x = true, y = false;
     std::cout << "Logical Operators:\n";
-    std::cout << "x && y: " << (x && y) << '\n'; // Logical AND
-    std::cout << "x || y: " << (x || y) << '\n'; // Logical OR
-    std::cout << "!x: " << (!x) << '\n';         // Logical NOT
+    std::cout << "x && y: " << (x && y) << '\n'; // Logical AND && = check if two conditions are true
+    std::cout << "x || y: " << (x || y) << '\n'; // Logical OR  || check if at least one of two conditions is true
+    std::cout << "!x: " << (!x) << '\n';         // Logical NOT  ! = reverses the logical state of its operand
     std::cout << "\n";
 
     // ASSIGNMENT OPERATORS = used to assign values to variables
